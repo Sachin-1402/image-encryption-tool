@@ -30,22 +30,8 @@ A Python-based tool for encrypting and decrypting images using pixel manipulatio
 Make sure Python is installed and install the required library:
 
 ```bash
-
-
 git clone https://github.com/Sachin-1402/image-encryption-tool.git
 cd image-encryption-tool
----
-pip3 install pillow
-
-python3 image_encryption.py
 
 
 
-
-
-
-###2. Install Dependencies:
-Make sure Python is installed and install the required library:
-
-```bash
-pip3 install pillow
