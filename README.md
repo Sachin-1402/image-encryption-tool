@@ -55,7 +55,7 @@ The tool processes images by manipulating the pixel values to perform encryption
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/YourUsername/image-encryption-tool.git
+git clone https://github.com/Sachin-1402/image-encryption-tool.git
 ```
 ```bash
 cd image-encryption-tool
