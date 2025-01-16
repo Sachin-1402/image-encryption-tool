@@ -60,6 +60,9 @@ git clone https://github.com/Sachin-1402/image-encryption-tool.git
 ```bash
 cd image-encryption-tool
 ```
+```bash
+python3 image_encryption.py
+```
 
 
 
